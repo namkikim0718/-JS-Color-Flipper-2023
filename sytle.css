@@ -1,0 +1,27 @@
+.main-title {
+    color: aqua;
+    display: flex;
+    justify-content: center;
+}
+
+.main-screen {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 700px;
+}
+
+.main-text {
+    display: flex;
+    background-color: black;
+    color: white;
+    margin: 10px 10px;
+    padding: 0 10px;
+    border-radius: 5px;
+}
+
+.main-screen button {
+    border-radius: 5px;
+    padding: 10px 10px;
+}
